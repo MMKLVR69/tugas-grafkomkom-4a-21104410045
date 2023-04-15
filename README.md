@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410045** |
+| Nama Lengkap | **Farrel Agia Rahmana Putra** |
 | Kelas | TI-4A |
